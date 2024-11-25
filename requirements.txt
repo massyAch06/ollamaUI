@@ -1,0 +1,5 @@
+streamlit>=1.32.0
+ollama>=0.1.6
+plotly>=5.18.0
+pyperclip>=1.8.2
+streamlit-ace>=0.1.1
