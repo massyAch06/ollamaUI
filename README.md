@@ -28,7 +28,7 @@ Before running OllamaUI, make sure you have:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ollama-ui.git
+   git clone https://github.com/massyAch06/ollamaUI.git
    cd ollama-ui
    ```
 
